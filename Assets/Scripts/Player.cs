@@ -62,7 +62,6 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        print(anim.GetBool("isRunning"));
         ManageJump();
         
         int dir = ReadDirection();
@@ -126,6 +125,7 @@ public class Player : MonoBehaviour
         {
             velocity += dir * BRAKE * dt;
             anim.SetBool("isBraking", true);
+            sr.flipX = !sr.flipX;
         }
         else
         {
@@ -156,12 +156,8 @@ public class Player : MonoBehaviour
         }
 
         if (velocity < 0)
-        {
             sr.flipX = true;
-        }
         else if (velocity > 0)
-        {
             sr.flipX = false;
-        }
     }
 }
