@@ -5,18 +5,21 @@ public class Player : MonoBehaviour
 {
     PlayerActions controls;
 
+    [SerializeField] float RUNNING_SPEED = 7f;
+    [SerializeField] float SPRINTING_SPEED = 10;
     [SerializeField] float MAX_SPEED = 20f;
-    [SerializeField] float ACCEL1 = 3f;     // accélération jusqu'à MAX_SPEED
-    [SerializeField] float ACCEL2 = 0.6f;   // accélération au-delà de MAX_SPEED
-    [SerializeField] float FRICTION = 6f;   // ralentissement sans input
+    [SerializeField] float ACCEL1 = 10f;     // accélération jusqu'à MAX_SPEED
+    [SerializeField] float ACCEL2 = 1f;   // accélération au-delà de MAX_SPEED
+    [SerializeField] float FRICTION = 10f;   // ralentissement sans input
     [SerializeField] float BRAKE = 15f;     // freinage quand on inverse la direction
     [SerializeField] float JUMP_STRENGTH = 5f;
 
     float velocity;  // < 0 = gauche, > 0 = droite
     int lastDir;
-    bool isJumping;
     bool isGrounded;
-    private Rigidbody2D rb;            // dernière touche pressée (-1 ou 1)
+    private Rigidbody2D rb;    
+    private Animator anim;
+    private SpriteRenderer sr;
 
     void Awake()
     {
@@ -26,6 +29,8 @@ public class Player : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void OnEnable()
@@ -57,14 +62,12 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        print(anim.GetBool("isRunning"));
+        ManageJump();
+        
         int dir = ReadDirection();
-
-        if (controls.Sonic.Jump.WasPressedThisFrame() && isGrounded)
-        {
-            rb.AddForce(new Vector2(0,JUMP_STRENGTH));
-        }
-
         UpdateVelocity(dir);
+        
         transform.Translate(Vector3.right * velocity * Time.deltaTime, Space.World);
     }
 
@@ -86,28 +89,79 @@ public class Player : MonoBehaviour
         return 0;
     }
 
+    void ManageJump()
+    {
+        if (controls.Sonic.Jump.WasPressedThisFrame() && isGrounded)
+        {
+            rb.AddForce(new Vector2(0,JUMP_STRENGTH));
+            anim.SetBool("isJumping", true);
+            isGrounded = !isGrounded;
+        }
+        else if (isGrounded)
+        {
+            anim.SetBool("isJumping", false);
+        }
+
+        if (controls.Sonic.Jump.WasReleasedThisFrame())
+        {
+            rb.AddForce(new Vector2(0,-JUMP_STRENGTH * 2/3));
+        }
+    }
+
     void UpdateVelocity(int dir)
     {
         float dt = Time.deltaTime;
 
+        //Friction
         if (dir == 0)
         {
-            // Pas d'input : friction jusqu'à l'arrêt complet
             velocity = Mathf.MoveTowards(velocity, 0f, FRICTION * dt);
-            return;
         }
 
-        bool reversing = velocity * dir < 0f;
+        //Animation basée sur la vitesse
+        SpeedAnimation();
 
-        if (reversing)
+        //Animation de freinage
+        if (velocity * dir < 0f)
         {
-            // Direction opposée : on freine d'abord, puis on repart naturellement
             velocity += dir * BRAKE * dt;
+            anim.SetBool("isBraking", true);
         }
         else
         {
             float accel = Mathf.Abs(velocity) <= MAX_SPEED ? ACCEL1 : ACCEL2;
             velocity += dir * accel * dt;
+            anim.SetBool("isBraking", false);
+        }
+    }
+
+
+    void SpeedAnimation()
+    {
+        if (velocity == 0f)
+        {
+            anim.SetBool("isWalking",false);
+        }else if (velocity > SPRINTING_SPEED || velocity < -SPRINTING_SPEED)
+        {
+            anim.SetBool("isSprinting", true);
+        }else if (velocity > RUNNING_SPEED || velocity < -RUNNING_SPEED)
+        {
+            anim.SetBool("isSprinting", false);
+            anim.SetBool("isRunning", true);
+        }
+        else
+        {
+            anim.SetBool("isWalking",true);
+            anim.SetBool("isRunning", false);
+        }
+
+        if (velocity < 0)
+        {
+            sr.flipX = true;
+        }
+        else if (velocity > 0)
+        {
+            sr.flipX = false;
         }
     }
 }
