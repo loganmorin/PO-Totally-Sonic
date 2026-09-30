@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
     float velocity;  // < 0 = gauche, > 0 = droite
     int lastDir;
     bool isGrounded;
+    bool isMoving = false;
     private Rigidbody2D rb;    
     private Animator anim;
     private SpriteRenderer sr;
@@ -63,6 +64,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         ManageJump();
+        ManageCrounch();
         
         int dir = ReadDirection();
         UpdateVelocity(dir);
@@ -104,6 +106,22 @@ public class Player : MonoBehaviour
         if (controls.Sonic.Jump.WasReleasedThisFrame())
         {
             rb.AddForce(new Vector2(0,-JUMP_STRENGTH * 2/3));
+        }
+    }
+
+    void ManageCrounch()
+    {
+        if(anim.GetBool("isWalking") || anim.GetBool("isRunning") || anim.GetBool("isSprinting"))
+            isMoving = true;
+        else
+            isMoving = false;
+
+        if (controls.Sonic.Crounch.WasPressedThisFrame() && isGrounded && !isMoving)
+        {
+            anim.SetBool("isCrounching", true);
+        }else if (controls.Sonic.Crounch.WasReleasedThisFrame())
+        {
+            anim.SetBool("isCrounching", false);
         }
     }
 
