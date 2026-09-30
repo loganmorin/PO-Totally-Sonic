@@ -1,0 +1,7072 @@
+fileFormatVersion: 2
+guid: 6f48da108da6a9e43aef3d5646b17f01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5311543406807287817
+    second: Scene1-FG High_v1.00.0717_0
+  - first:
+      213: 3801057687542330666
+    second: Scene1-FG High_v1.00.0717_1
+  - first:
+      213: 6387002269252080202
+    second: Scene1-FG High_v1.00.0717_2
+  - first:
+      213: 7554895228086117130
+    second: Scene1-FG High_v1.00.0717_3
+  - first:
+      213: -6604353483317211920
+    second: Scene1-FG High_v1.00.0717_4
+  - first:
+      213: 5788525077887090119
+    second: Scene1-FG High_v1.00.0717_5
+  - first:
+      213: 8065831058593995065
+    second: Scene1-FG High_v1.00.0717_6
+  - first:
+      213: 944282057376641291
+    second: Scene1-FG High_v1.00.0717_7
+  - first:
+      213: 8449547304069313867
+    second: Scene1-FG High_v1.00.0717_8
+  - first:
+      213: 1285004683846436763
+    second: Scene1-FG High_v1.00.0717_9
+  - first:
+      213: 4331835715414077759
+    second: Scene1-FG High_v1.00.0717_10
+  - first:
+      213: 3807712849738175857
+    second: Scene1-FG High_v1.00.0717_11
+  - first:
+      213: -1064463450614995178
+    second: Scene1-FG High_v1.00.0717_12
+  - first:
+      213: -8368432413494411019
+    second: Scene1-FG High_v1.00.0717_13
+  - first:
+      213: -7145921128652823285
+    second: Scene1-FG High_v1.00.0717_14
+  - first:
+      213: 6457104322035057303
+    second: Scene1-FG High_v1.00.0717_15
+  - first:
+      213: -3771646662440910953
+    second: Scene1-FG High_v1.00.0717_16
+  - first:
+      213: 2054013983906438527
+    second: Scene1-FG High_v1.00.0717_17
+  - first:
+      213: 1109810689959212118
+    second: Scene1-FG High_v1.00.0717_18
+  - first:
+      213: 3697624682293056864
+    second: Scene1-FG High_v1.00.0717_19
+  - first:
+      213: -7305325140812787618
+    second: Scene1-FG High_v1.00.0717_20
+  - first:
+      213: 1236546166163222195
+    second: Scene1-FG High_v1.00.0717_21
+  - first:
+      213: -9111207584193104544
+    second: Scene1-FG High_v1.00.0717_22
+  - first:
+      213: 1089149102135183291
+    second: Scene1-FG High_v1.00.0717_23
+  - first:
+      213: -260593566646918813
+    second: Scene1-FG High_v1.00.0717_24
+  - first:
+      213: -8025336889580289177
+    second: Scene1-FG High_v1.00.0717_25
+  - first:
+      213: -5756149546842430493
+    second: Scene1-FG High_v1.00.0717_26
+  - first:
+      213: 9035496338138909730
+    second: Scene1-FG High_v1.00.0717_27
+  - first:
+      213: -3449052733528989362
+    second: Scene1-FG High_v1.00.0717_28
+  - first:
+      213: 8207726757572886623
+    second: Scene1-FG High_v1.00.0717_29
+  - first:
+      213: -6813110092527088293
+    second: Scene1-FG High_v1.00.0717_30
+  - first:
+      213: 3359213631482370876
+    second: Scene1-FG High_v1.00.0717_31
+  - first:
+      213: 4941279895842876942
+    second: Scene1-FG High_v1.00.0717_32
+  - first:
+      213: -2727185836530550646
+    second: Scene1-FG High_v1.00.0717_33
+  - first:
+      213: 1165931679249225981
+    second: Scene1-FG High_v1.00.0717_34
+  - first:
+      213: -5685879648492310201
+    second: Scene1-FG High_v1.00.0717_35
+  - first:
+      213: 6281416515842472703
+    second: Scene1-FG High_v1.00.0717_36
+  - first:
+      213: -3305455393387277624
+    second: Scene1-FG High_v1.00.0717_37
+  - first:
+      213: 7057481033497002814
+    second: Scene1-FG High_v1.00.0717_38
+  - first:
+      213: 3377711640105451405
+    second: Scene1-FG High_v1.00.0717_39
+  - first:
+      213: 5657757041908491481
+    second: Scene1-FG High_v1.00.0717_40
+  - first:
+      213: -6792533035866537444
+    second: Scene1-FG High_v1.00.0717_41
+  - first:
+      213: 4570638555151195686
+    second: Scene1-FG High_v1.00.0717_42
+  - first:
+      213: -6281918671772301650
+    second: Scene1-FG High_v1.00.0717_43
+  - first:
+      213: -7561073253819787214
+    second: Scene1-FG High_v1.00.0717_44
+  - first:
+      213: -6055244993744830636
+    second: Scene1-FG High_v1.00.0717_45
+  - first:
+      213: 4888500910006454149
+    second: Scene1-FG High_v1.00.0717_46
+  - first:
+      213: -8377524889017076523
+    second: Scene1-FG High_v1.00.0717_47
+  - first:
+      213: -7796853209993157511
+    second: Scene1-FG High_v1.00.0717_48
+  - first:
+      213: 7323239215791710697
+    second: Scene1-FG High_v1.00.0717_49
+  - first:
+      213: 6381338807860088613
+    second: Scene1-FG High_v1.00.0717_50
+  - first:
+      213: -191833829754564688
+    second: Scene1-FG High_v1.00.0717_51
+  - first:
+      213: -5277319752088018027
+    second: Scene1-FG High_v1.00.0717_52
+  - first:
+      213: 347294254881306597
+    second: Scene1-FG High_v1.00.0717_53
+  - first:
+      213: 135665742361945241
+    second: Scene1-FG High_v1.00.0717_54
+  - first:
+      213: 1481422543452304866
+    second: Scene1-FG High_v1.00.0717_55
+  - first:
+      213: -4989362156842695831
+    second: Scene1-FG High_v1.00.0717_56
+  - first:
+      213: -5744697880687539179
+    second: Scene1-FG High_v1.00.0717_57
+  - first:
+      213: 1967164710252479759
+    second: Scene1-FG High_v1.00.0717_58
+  - first:
+      213: 2745269744980924
+    second: Scene1-FG High_v1.00.0717_59
+  - first:
+      213: 4495310811240125203
+    second: Scene1-FG High_v1.00.0717_60
+  - first:
+      213: 4129911830566731904
+    second: Scene1-FG High_v1.00.0717_61
+  - first:
+      213: -204291840508041343
+    second: Scene1-FG High_v1.00.0717_62
+  - first:
+      213: 1263295592438577770
+    second: Scene1-FG High_v1.00.0717_63
+  - first:
+      213: -2848006755935875868
+    second: Scene1-FG High_v1.00.0717_64
+  - first:
+      213: 7185024971388561383
+    second: Scene1-FG High_v1.00.0717_65
+  - first:
+      213: -3390979843300347012
+    second: Scene1-FG High_v1.00.0717_66
+  - first:
+      213: 8363433679720560567
+    second: Scene1-FG High_v1.00.0717_67
+  - first:
+      213: -2004954054254100919
+    second: Scene1-FG High_v1.00.0717_68
+  - first:
+      213: -6969927357321357687
+    second: Scene1-FG High_v1.00.0717_69
+  - first:
+      213: 7224314075586997262
+    second: Scene1-FG High_v1.00.0717_70
+  - first:
+      213: 3984720193918034057
+    second: Scene1-FG High_v1.00.0717_71
+  - first:
+      213: 3218216537675321257
+    second: Scene1-FG High_v1.00.0717_72
+  - first:
+      213: 7705592484728596417
+    second: Scene1-FG High_v1.00.0717_73
+  - first:
+      213: 8689062732950590371
+    second: Scene1-FG High_v1.00.0717_74
+  - first:
+      213: -8078019041734717942
+    second: Scene1-FG High_v1.00.0717_75
+  - first:
+      213: -8553150586301420078
+    second: Scene1-FG High_v1.00.0717_76
+  - first:
+      213: -5227678481368459555
+    second: Scene1-FG High_v1.00.0717_77
+  - first:
+      213: -2322397017626515724
+    second: Scene1-FG High_v1.00.0717_78
+  - first:
+      213: 175784032503880792
+    second: Scene1-FG High_v1.00.0717_79
+  - first:
+      213: 2063649510577458238
+    second: Scene1-FG High_v1.00.0717_80
+  - first:
+      213: -633115675449574138
+    second: Scene1-FG High_v1.00.0717_81
+  - first:
+      213: 2517358040594167681
+    second: Scene1-FG High_v1.00.0717_82
+  - first:
+      213: -3398936033652305774
+    second: Scene1-FG High_v1.00.0717_83
+  - first:
+      213: -3806413625901511091
+    second: Scene1-FG High_v1.00.0717_84
+  - first:
+      213: -7834509019858354146
+    second: Scene1-FG High_v1.00.0717_85
+  - first:
+      213: -5674196147533649828
+    second: Scene1-FG High_v1.00.0717_86
+  - first:
+      213: 4045371073958045956
+    second: Scene1-FG High_v1.00.0717_87
+  - first:
+      213: -5420931694471374813
+    second: Scene1-FG High_v1.00.0717_88
+  - first:
+      213: -1814988314472953262
+    second: Scene1-FG High_v1.00.0717_89
+  - first:
+      213: 2440449428507708507
+    second: Scene1-FG High_v1.00.0717_90
+  - first:
+      213: 652001166350347277
+    second: Scene1-FG High_v1.00.0717_91
+  - first:
+      213: -251737489417716905
+    second: Scene1-FG High_v1.00.0717_92
+  - first:
+      213: -2184395590685536341
+    second: Scene1-FG High_v1.00.0717_93
+  - first:
+      213: -2490328707254989231
+    second: Scene1-FG High_v1.00.0717_94
+  - first:
+      213: -4063346111305626627
+    second: Scene1-FG High_v1.00.0717_95
+  - first:
+      213: 3892812964787164151
+    second: Scene1-FG High_v1.00.0717_96
+  - first:
+      213: 1432735146274476083
+    second: Scene1-FG High_v1.00.0717_97
+  - first:
+      213: -4237842832821281856
+    second: Scene1-FG High_v1.00.0717_98
+  - first:
+      213: 3888336320416368044
+    second: Scene1-FG High_v1.00.0717_99
+  - first:
+      213: 5062476691484231079
+    second: Scene1-FG High_v1.00.0717_100
+  - first:
+      213: -4329269554744272812
+    second: Scene1-FG High_v1.00.0717_101
+  - first:
+      213: -1263067884070411180
+    second: Scene1-FG High_v1.00.0717_102
+  - first:
+      213: -2115314783742369406
+    second: Scene1-FG High_v1.00.0717_103
+  - first:
+      213: -8747282234897655920
+    second: Scene1-FG High_v1.00.0717_104
+  - first:
+      213: -4416642862538076435
+    second: Scene1-FG High_v1.00.0717_105
+  - first:
+      213: -5872871585627547610
+    second: Scene1-FG High_v1.00.0717_106
+  - first:
+      213: 4571323850048794931
+    second: Scene1-FG High_v1.00.0717_107
+  - first:
+      213: 784852625309083067
+    second: Scene1-FG High_v1.00.0717_108
+  - first:
+      213: 4168989069725730583
+    second: Scene1-FG High_v1.00.0717_109
+  - first:
+      213: 3836419857498118208
+    second: Scene1-FG High_v1.00.0717_110
+  - first:
+      213: -1420822334911599128
+    second: Scene1-FG High_v1.00.0717_111
+  - first:
+      213: -8114651531888570586
+    second: Scene1-FG High_v1.00.0717_112
+  - first:
+      213: 879555839926495549
+    second: Scene1-FG High_v1.00.0717_113
+  - first:
+      213: -3144800819300078580
+    second: Scene1-FG High_v1.00.0717_114
+  - first:
+      213: 4113166905033124632
+    second: Scene1-FG High_v1.00.0717_115
+  - first:
+      213: 3634521073132551581
+    second: Scene1-FG High_v1.00.0717_116
+  - first:
+      213: -5643762765915591877
+    second: Scene1-FG High_v1.00.0717_117
+  - first:
+      213: -4291329310524985715
+    second: Scene1-FG High_v1.00.0717_118
+  - first:
+      213: 2388004891286922301
+    second: Scene1-FG High_v1.00.0717_119
+  - first:
+      213: -4035765578779753765
+    second: Scene1-FG High_v1.00.0717_120
+  - first:
+      213: -3563664490472237694
+    second: Scene1-FG High_v1.00.0717_121
+  - first:
+      213: 1680599882495524370
+    second: Scene1-FG High_v1.00.0717_122
+  - first:
+      213: -2231434435250439534
+    second: Scene1-FG High_v1.00.0717_123
+  - first:
+      213: -1244545204279131822
+    second: Scene1-FG High_v1.00.0717_124
+  - first:
+      213: 5194672833714742665
+    second: Scene1-FG High_v1.00.0717_125
+  - first:
+      213: -3410871111926454666
+    second: Scene1-FG High_v1.00.0717_126
+  - first:
+      213: -5256452470993761104
+    second: Scene1-FG High_v1.00.0717_127
+  - first:
+      213: 8062171855584268158
+    second: Scene1-FG High_v1.00.0717_128
+  - first:
+      213: 1063736742019125545
+    second: Scene1-FG High_v1.00.0717_129
+  - first:
+      213: 8967358427523194923
+    second: Scene1-FG High_v1.00.0717_130
+  - first:
+      213: 212450814755566768
+    second: Scene1-FG High_v1.00.0717_131
+  - first:
+      213: -7783989677337227820
+    second: Scene1-FG High_v1.00.0717_132
+  - first:
+      213: -8825430208742489548
+    second: Scene1-FG High_v1.00.0717_133
+  - first:
+      213: 5519196849700261836
+    second: Scene1-FG High_v1.00.0717_134
+  - first:
+      213: -6582900571420903468
+    second: Scene1-FG High_v1.00.0717_135
+  - first:
+      213: 1832979816070879833
+    second: Scene1-FG High_v1.00.0717_136
+  - first:
+      213: 7542777748511139836
+    second: Scene1-FG High_v1.00.0717_137
+  - first:
+      213: 824250866646990694
+    second: Scene1-FG High_v1.00.0717_138
+  - first:
+      213: -9204891777003442548
+    second: Scene1-FG High_v1.00.0717_139
+  - first:
+      213: -4168981095946593568
+    second: Scene1-FG High_v1.00.0717_140
+  - first:
+      213: -7466405801992576206
+    second: Scene1-FG High_v1.00.0717_141
+  - first:
+      213: 5481376623941931850
+    second: Scene1-FG High_v1.00.0717_142
+  - first:
+      213: -1179640984574387192
+    second: Scene1-FG High_v1.00.0717_143
+  - first:
+      213: -7579293521629670323
+    second: Scene1-FG High_v1.00.0717_144
+  - first:
+      213: 7743281868399100702
+    second: Scene1-FG High_v1.00.0717_145
+  - first:
+      213: -528785444748720069
+    second: Scene1-FG High_v1.00.0717_146
+  - first:
+      213: -8004571542977557534
+    second: Scene1-FG High_v1.00.0717_147
+  - first:
+      213: 9063920410629087257
+    second: Scene1-FG High_v1.00.0717_148
+  - first:
+      213: 5551761746651866233
+    second: Scene1-FG High_v1.00.0717_149
+  - first:
+      213: -3335576768348370657
+    second: Scene1-FG High_v1.00.0717_150
+  - first:
+      213: 858300109621596530
+    second: Scene1-FG High_v1.00.0717_151
+  - first:
+      213: -8372885853915104074
+    second: Scene1-FG High_v1.00.0717_152
+  - first:
+      213: 7390757777205458737
+    second: Scene1-FG High_v1.00.0717_153
+  - first:
+      213: 6036998381840120750
+    second: Scene1-FG High_v1.00.0717_154
+  - first:
+      213: 7372088503875771189
+    second: Scene1-FG High_v1.00.0717_155
+  - first:
+      213: 1739253829368583371
+    second: Scene1-FG High_v1.00.0717_156
+  - first:
+      213: -5410307750820699998
+    second: Scene1-FG High_v1.00.0717_157
+  - first:
+      213: 4023026932110659350
+    second: Scene1-FG High_v1.00.0717_158
+  - first:
+      213: -1132235138099314291
+    second: Scene1-FG High_v1.00.0717_159
+  - first:
+      213: -4059053019899684961
+    second: Scene1-FG High_v1.00.0717_160
+  - first:
+      213: 1389940458513485133
+    second: Scene1-FG High_v1.00.0717_161
+  - first:
+      213: -1705345251524467608
+    second: Scene1-FG High_v1.00.0717_162
+  - first:
+      213: 2609010558297173337
+    second: Scene1-FG High_v1.00.0717_163
+  - first:
+      213: 6991311732546186745
+    second: Scene1-FG High_v1.00.0717_164
+  - first:
+      213: 2350174241224782089
+    second: Scene1-FG High_v1.00.0717_165
+  - first:
+      213: -7918831696474569053
+    second: Scene1-FG High_v1.00.0717_166
+  - first:
+      213: 6272586199949749453
+    second: Scene1-FG High_v1.00.0717_167
+  - first:
+      213: -2821488611142653044
+    second: Scene1-FG High_v1.00.0717_168
+  - first:
+      213: -1811572883679921362
+    second: Scene1-FG High_v1.00.0717_169
+  - first:
+      213: -929485771814687017
+    second: Scene1-FG High_v1.00.0717_170
+  - first:
+      213: -1338420994132046280
+    second: Scene1-FG High_v1.00.0717_171
+  - first:
+      213: 6900074811405972714
+    second: Scene1-FG High_v1.00.0717_172
+  - first:
+      213: 4987055272857190959
+    second: Scene1-FG High_v1.00.0717_173
+  - first:
+      213: -639190368275165737
+    second: Scene1-FG High_v1.00.0717_174
+  - first:
+      213: 1266034421681764448
+    second: Scene1-FG High_v1.00.0717_175
+  - first:
+      213: -781100589686731236
+    second: Scene1-FG High_v1.00.0717_176
+  - first:
+      213: 889027451406609905
+    second: Scene1-FG High_v1.00.0717_177
+  - first:
+      213: -6667891817319468922
+    second: Scene1-FG High_v1.00.0717_178
+  - first:
+      213: -2692836385139739836
+    second: Scene1-FG High_v1.00.0717_179
+  - first:
+      213: -8538958779965027361
+    second: Scene1-FG High_v1.00.0717_180
+  - first:
+      213: 5206550442211153243
+    second: Scene1-FG High_v1.00.0717_181
+  - first:
+      213: -8349012898906383375
+    second: Scene1-FG High_v1.00.0717_182
+  - first:
+      213: -5803820252942661548
+    second: Scene1-FG High_v1.00.0717_183
+  - first:
+      213: -2178838185497423088
+    second: Scene1-FG High_v1.00.0717_184
+  - first:
+      213: 57328500478932510
+    second: Scene1-FG High_v1.00.0717_185
+  - first:
+      213: -1190720902572879334
+    second: Scene1-FG High_v1.00.0717_186
+  - first:
+      213: -1800985634833244937
+    second: Scene1-FG High_v1.00.0717_187
+  - first:
+      213: 4893881185091046416
+    second: Scene1-FG High_v1.00.0717_188
+  - first:
+      213: 6971662226706548030
+    second: Scene1-FG High_v1.00.0717_189
+  - first:
+      213: 2363681658979011509
+    second: Scene1-FG High_v1.00.0717_190
+  - first:
+      213: 5158453485152932502
+    second: Scene1-FG High_v1.00.0717_191
+  - first:
+      213: -4324550085882204615
+    second: Scene1-FG High_v1.00.0717_192
+  - first:
+      213: 6880792563338280297
+    second: Scene1-FG High_v1.00.0717_193
+  - first:
+      213: -8856045037552910416
+    second: Scene1-FG High_v1.00.0717_194
+  - first:
+      213: -3623018985997754418
+    second: Scene1-FG High_v1.00.0717_195
+  - first:
+      213: 447452464163409682
+    second: Scene1-FG High_v1.00.0717_196
+  - first:
+      213: -2358120423075250698
+    second: Scene1-FG High_v1.00.0717_197
+  - first:
+      213: 3071127801190164919
+    second: Scene1-FG High_v1.00.0717_198
+  - first:
+      213: 930803239989359968
+    second: Scene1-FG High_v1.00.0717_199
+  - first:
+      213: 5286134830834836573
+    second: Scene1-FG High_v1.00.0717_200
+  - first:
+      213: -1743540492808496179
+    second: Scene1-FG High_v1.00.0717_201
+  - first:
+      213: -7011643039128248125
+    second: Scene1-FG High_v1.00.0717_202
+  - first:
+      213: -1487195396225894256
+    second: Scene1-FG High_v1.00.0717_203
+  - first:
+      213: 5756940074863916802
+    second: Scene1-FG High_v1.00.0717_204
+  - first:
+      213: 6754365250100890775
+    second: Scene1-FG High_v1.00.0717_205
+  - first:
+      213: -4868296222156942074
+    second: Scene1-FG High_v1.00.0717_206
+  - first:
+      213: -2988558383357140059
+    second: Scene1-FG High_v1.00.0717_207
+  - first:
+      213: -4882126519693133820
+    second: Scene1-FG High_v1.00.0717_208
+  - first:
+      213: 1911748870315211318
+    second: Scene1-FG High_v1.00.0717_209
+  - first:
+      213: -3857128223944952054
+    second: Scene1-FG High_v1.00.0717_210
+  - first:
+      213: -327784269789418440
+    second: Scene1-FG High_v1.00.0717_211
+  - first:
+      213: -3830629188861610606
+    second: Scene1-FG High_v1.00.0717_212
+  - first:
+      213: -1002640446482340757
+    second: Scene1-FG High_v1.00.0717_213
+  - first:
+      213: -7901167347893518130
+    second: Scene1-FG High_v1.00.0717_214
+  - first:
+      213: 4239959887305179409
+    second: Scene1-FG High_v1.00.0717_215
+  - first:
+      213: 372134145595748124
+    second: Scene1-FG High_v1.00.0717_216
+  - first:
+      213: -3549912548867671386
+    second: Scene1-FG High_v1.00.0717_217
+  - first:
+      213: -4575699605756527313
+    second: Scene1-FG High_v1.00.0717_218
+  - first:
+      213: -1547035122024379667
+    second: Scene1-FG High_v1.00.0717_219
+  - first:
+      213: -5295283831898426557
+    second: Scene1-FG High_v1.00.0717_220
+  - first:
+      213: 4963459848868790687
+    second: Scene1-FG High_v1.00.0717_221
+  - first:
+      213: 4134336444685360686
+    second: Scene1-FG High_v1.00.0717_222
+  - first:
+      213: 5229123017893104369
+    second: Scene1-FG High_v1.00.0717_223
+  - first:
+      213: 7555629623646194160
+    second: Scene1-FG High_v1.00.0717_224
+  - first:
+      213: 737562972772938
+    second: Scene1-FG High_v1.00.0717_225
+  - first:
+      213: -828681008425958231
+    second: Scene1-FG High_v1.00.0717_226
+  - first:
+      213: -964163886589565837
+    second: Scene1-FG High_v1.00.0717_227
+  - first:
+      213: 4267082441283695294
+    second: Scene1-FG High_v1.00.0717_228
+  - first:
+      213: -4379130896002591062
+    second: Scene1-FG High_v1.00.0717_229
+  - first:
+      213: 2499329447531751574
+    second: Scene1-FG High_v1.00.0717_230
+  - first:
+      213: 1028476244133783963
+    second: Scene1-FG High_v1.00.0717_231
+  - first:
+      213: -8372192662563944395
+    second: Scene1-FG High_v1.00.0717_232
+  - first:
+      213: -4305396830336382371
+    second: Scene1-FG High_v1.00.0717_233
+  - first:
+      213: -868697350659622178
+    second: Scene1-FG High_v1.00.0717_234
+  - first:
+      213: 6205561611829930504
+    second: Scene1-FG High_v1.00.0717_235
+  - first:
+      213: 5267345693460839255
+    second: Scene1-FG High_v1.00.0717_236
+  - first:
+      213: -8672598528409116065
+    second: Scene1-FG High_v1.00.0717_237
+  - first:
+      213: 2008950996717392508
+    second: Scene1-FG High_v1.00.0717_238
+  - first:
+      213: 8578771255562872921
+    second: Scene1-FG High_v1.00.0717_239
+  - first:
+      213: -602325996884615271
+    second: Scene1-FG High_v1.00.0717_240
+  - first:
+      213: -3681547512952349079
+    second: Scene1-FG High_v1.00.0717_241
+  - first:
+      213: 972783764924467676
+    second: Scene1-FG High_v1.00.0717_242
+  - first:
+      213: 7521222735064583306
+    second: Scene1-FG High_v1.00.0717_243
+  - first:
+      213: -5076060828238834930
+    second: Scene1-FG High_v1.00.0717_244
+  - first:
+      213: 3742350503599314705
+    second: Scene1-FG High_v1.00.0717_245
+  - first:
+      213: 3952032724896337299
+    second: Scene1-FG High_v1.00.0717_246
+  - first:
+      213: -4948762351740203337
+    second: Scene1-FG High_v1.00.0717_247
+  - first:
+      213: 9182949760913461638
+    second: Scene1-FG High_v1.00.0717_248
+  - first:
+      213: 5236369189152041786
+    second: Scene1-FG High_v1.00.0717_249
+  - first:
+      213: 2341698499019507387
+    second: Scene1-FG High_v1.00.0717_250
+  - first:
+      213: 5996408377344613620
+    second: Scene1-FG High_v1.00.0717_251
+  - first:
+      213: -7435740303823358150
+    second: Scene1-FG High_v1.00.0717_252
+  - first:
+      213: -4975370294046767855
+    second: Scene1-FG High_v1.00.0717_253
+  - first:
+      213: 7338255000577001117
+    second: Scene1-FG High_v1.00.0717_254
+  - first:
+      213: -8499162155648404338
+    second: Scene1-FG High_v1.00.0717_255
+  - first:
+      213: -1428422439612523990
+    second: Scene1-FG High_v1.00.0717_256
+  - first:
+      213: -8021567288566062669
+    second: Scene1-FG High_v1.00.0717_257
+  - first:
+      213: 1453784278336956352
+    second: Scene1-FG High_v1.00.0717_258
+  - first:
+      213: 5017940888403469681
+    second: Scene1-FG High_v1.00.0717_259
+  - first:
+      213: -7513818589257162745
+    second: Scene1-FG High_v1.00.0717_260
+  - first:
+      213: 6165357575713075903
+    second: Scene1-FG High_v1.00.0717_261
+  - first:
+      213: -5248325181983690285
+    second: Scene1-FG High_v1.00.0717_262
+  - first:
+      213: 3509308297526759924
+    second: Scene1-FG High_v1.00.0717_263
+  - first:
+      213: 8612661904186968009
+    second: Scene1-FG High_v1.00.0717_264
+  - first:
+      213: 6478290208858426596
+    second: Scene1-FG High_v1.00.0717_265
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_0
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 1960
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7fe2cc96b9946b0800000000000000
+      internalID: -5311543406807287817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_1
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 1954
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257ab4f3d110c430800000000000000
+      internalID: 3801057687542330666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_2
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 1919
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42526e59b033a850800000000000000
+      internalID: 6387002269252080202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_3
+      rect:
+        serializedVersion: 2
+        x: 6128
+        y: 1960
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ed51be2168d860800000000000000
+      internalID: 7554895228086117130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_4
+      rect:
+        serializedVersion: 2
+        x: 6128
+        y: 1954
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc83cf8f7f9854a0800000000000000
+      internalID: -6604353483317211920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_5
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 1903
+        width: 66
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd76e0b3e8f45050800000000000000
+      internalID: 5788525077887090119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_6
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 1903
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dec9fc969fef60800000000000000
+      internalID: 8065831058593995065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_7
+      rect:
+        serializedVersion: 2
+        x: 6463
+        y: 1887
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b5b53783ca1d00800000000000000
+      internalID: 944282057376641291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_8
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 1919
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4539e36182d24570800000000000000
+      internalID: 8449547304069313867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_9
+      rect:
+        serializedVersion: 2
+        x: 7807
+        y: 1855
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b974163a3f045d110800000000000000
+      internalID: 1285004683846436763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_10
+      rect:
+        serializedVersion: 2
+        x: 8415
+        y: 1775
+        width: 242
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313b92d1a5cd1c30800000000000000
+      internalID: 4331835715414077759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_11
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 84
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759557a9a6b7d430800000000000000
+      internalID: 3807712849738175857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_12
+      rect:
+        serializedVersion: 2
+        x: 11791
+        y: 1343
+        width: 34
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617e4b5a1244a31f0800000000000000
+      internalID: -1064463450614995178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_13
+      rect:
+        serializedVersion: 2
+        x: 12655
+        y: 1823
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f00dcace0b5ddb80800000000000000
+      internalID: -8368432413494411019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_14
+      rect:
+        serializedVersion: 2
+        x: 13663
+        y: 1759
+        width: 898
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a0bd189694dc90800000000000000
+      internalID: -7145921128652823285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_15
+      rect:
+        serializedVersion: 2
+        x: 14815
+        y: 1119
+        width: 578
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920a807b2e3c9950800000000000000
+      internalID: 6457104322035057303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_16
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 1215
+        width: 658
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ffbe2f75b68abc0800000000000000
+      internalID: -3771646662440910953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_17
+      rect:
+        serializedVersion: 2
+        x: 8783
+        y: 1711
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9d62f5d2518c10800000000000000
+      internalID: 2054013983906438527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_18
+      rect:
+        serializedVersion: 2
+        x: 9087
+        y: 1699
+        width: 194
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65433f641f6d66f00800000000000000
+      internalID: 1109810689959212118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_19
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 1687
+        width: 210
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0655bc4ce0a905330800000000000000
+      internalID: 3697624682293056864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_20
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1775
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509f1d5d754e9a90800000000000000
+      internalID: -7305325140812787618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_21
+      rect:
+        serializedVersion: 2
+        x: 11312
+        y: 1807
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea786cf28192110800000000000000
+      internalID: 1236546166163222195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_22
+      rect:
+        serializedVersion: 2
+        x: 14543
+        y: 1423
+        width: 258
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653355b9fc7e8180800000000000000
+      internalID: -9111207584193104544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_23
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 1599
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7043c765f6d1f00800000000000000
+      internalID: 1089149102135183291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_24
+      rect:
+        serializedVersion: 2
+        x: 5903
+        y: 1599
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3612245288f226cf0800000000000000
+      internalID: -260593566646918813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_25
+      rect:
+        serializedVersion: 2
+        x: 10479
+        y: 1695
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638ab57e9640a090800000000000000
+      internalID: -8025336889580289177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_26
+      rect:
+        serializedVersion: 2
+        x: 12927
+        y: 1727
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36e6a0c7c0e10b0800000000000000
+      internalID: -5756149546842430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_27
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 1704
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ccc142c08846d70800000000000000
+      internalID: 9035496338138909730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_28
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1698
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e412a6e00d08220d0800000000000000
+      internalID: -3449052733528989362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_29
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 1663
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c996eff3b7e170800000000000000
+      internalID: 8207726757572886623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_30
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 1704
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4b4fd778f271a0800000000000000
+      internalID: -6813110092527088293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_31
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 1698
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b182dfff25e9e20800000000000000
+      internalID: 3359213631482370876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_32
+      rect:
+        serializedVersion: 2
+        x: 13855
+        y: 1279
+        width: 418
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e6e7f92e3f29440800000000000000
+      internalID: 4941279895842876942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_33
+      rect:
+        serializedVersion: 2
+        x: 14447
+        y: 1551
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88be115ee6172ad0800000000000000
+      internalID: -2727185836530550646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_34
+      rect:
+        serializedVersion: 2
+        x: 6031
+        y: 1647
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df856065fa83e2010800000000000000
+      internalID: 1165931679249225981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_35
+      rect:
+        serializedVersion: 2
+        x: 8879
+        y: 1687
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7413ef3b592b711b0800000000000000
+      internalID: -5685879648492310201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_36
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 1391
+        width: 290
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaff017a031c2750800000000000000
+      internalID: 6281416515842472703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_37
+      rect:
+        serializedVersion: 2
+        x: 10815
+        y: 1439
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2904035d9a022d0800000000000000
+      internalID: -3305455393387277624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_38
+      rect:
+        serializedVersion: 2
+        x: 11343
+        y: 1343
+        width: 149
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3345aa9b9531f160800000000000000
+      internalID: 7057481033497002814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_39
+      rect:
+        serializedVersion: 2
+        x: 11855
+        y: 1608
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fff2e37da00ee20800000000000000
+      internalID: 3377711640105451405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_40
+      rect:
+        serializedVersion: 2
+        x: 11863
+        y: 1602
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ab64bd04648e40800000000000000
+      internalID: 5657757041908491481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_41
+      rect:
+        serializedVersion: 2
+        x: 11871
+        y: 1551
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12c11831331cb1a0800000000000000
+      internalID: -6792533035866537444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_42
+      rect:
+        serializedVersion: 2
+        x: 11888
+        y: 1608
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62edd74bc8b2e6f30800000000000000
+      internalID: 4570638555151195686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_43
+      rect:
+        serializedVersion: 2
+        x: 11888
+        y: 1602
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64e15404422d8a0800000000000000
+      internalID: -6281918671772301650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_44
+      rect:
+        serializedVersion: 2
+        x: 13087
+        y: 1551
+        width: 178
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385d599feba11790800000000000000
+      internalID: -7561073253819787214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_45
+      rect:
+        serializedVersion: 2
+        x: 14287
+        y: 1503
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f70ef92c277fba0800000000000000
+      internalID: -6055244993744830636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_46
+      rect:
+        serializedVersion: 2
+        x: 8879
+        y: 1567
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cb116da177d340800000000000000
+      internalID: 4888500910006454149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_47
+      rect:
+        serializedVersion: 2
+        x: 10607
+        y: 1487
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b42ddf7d0dbb80800000000000000
+      internalID: -8377524889017076523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_48
+      rect:
+        serializedVersion: 2
+        x: 14255
+        y: 1503
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9746e74a0530cc390800000000000000
+      internalID: -7796853209993157511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_49
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 1343
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a97e344f51a560800000000000000
+      internalID: 7323239215791710697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_50
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1407
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f4ae106d11f8850800000000000000
+      internalID: 6381338807860088613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_51
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1439
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf8391f528765df0800000000000000
+      internalID: -191833829754564688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_52
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 1343
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59324aa55a133c6b0800000000000000
+      internalID: -5277319752088018027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_53
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 1407
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7fbb6e846d1d400800000000000000
+      internalID: 347294254881306597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_54
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 1407
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9946cad164bf1e100800000000000000
+      internalID: 135665742361945241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_55
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 1391
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5fab054f11f8410800000000000000
+      internalID: 1481422543452304866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_56
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 1359
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9634d999d8932cab0800000000000000
+      internalID: -4989362156842695831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_57
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 1327
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0ea7d6bbb640b0800000000000000
+      internalID: -5744697880687539179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_58
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1343
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f058849a1e5cc4b10800000000000000
+      internalID: 1967164710252479759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_59
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 1343
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb356fbeec0c90000800000000000000
+      internalID: 2745269744980924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_60
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 1343
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d0fa9d5d826e30800000000000000
+      internalID: 4495310811240125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_61
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 1391
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800d9ebde4605930800000000000000
+      internalID: 4129911830566731904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_62
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 1407
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e10847a53a2df0800000000000000
+      internalID: -204291840508041343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_63
+      rect:
+        serializedVersion: 2
+        x: 8831
+        y: 1263
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3e99e5a0288110800000000000000
+      internalID: 1263295592438577770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_64
+      rect:
+        serializedVersion: 2
+        x: 12287
+        y: 1359
+        width: 306
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8782e1f8d978d0800000000000000
+      internalID: -2848006755935875868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_65
+      rect:
+        serializedVersion: 2
+        x: 13119
+        y: 1391
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e72de1c42656b360800000000000000
+      internalID: 7185024971388561383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_66
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 1327
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b2977cc1d0f0d0800000000000000
+      internalID: -3390979843300347012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_67
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 1327
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7384ece92e01470800000000000000
+      internalID: 8363433679720560567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_68
+      rect:
+        serializedVersion: 2
+        x: 6127
+        y: 1407
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e743d09e8fc24e0800000000000000
+      internalID: -2004954054254100919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_69
+      rect:
+        serializedVersion: 2
+        x: 6896
+        y: 1407
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986559c2ff7d54f90800000000000000
+      internalID: -6969927357321357687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_70
+      rect:
+        serializedVersion: 2
+        x: 11663
+        y: 1343
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ca73d206be14460800000000000000
+      internalID: 7224314075586997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_71
+      rect:
+        serializedVersion: 2
+        x: 11695
+        y: 1311
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806fc787e19c4730800000000000000
+      internalID: 3984720193918034057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_72
+      rect:
+        serializedVersion: 2
+        x: 8783
+        y: 1263
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afcc62e3e669ac20800000000000000
+      internalID: 3218216537675321257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_73
+      rect:
+        serializedVersion: 2
+        x: 11491
+        y: 1343
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ea24f983cfea60800000000000000
+      internalID: 7705592484728596417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_74
+      rect:
+        serializedVersion: 2
+        x: 11603
+        y: 1343
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3da9cd480c59870800000000000000
+      internalID: 8689062732950590371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_75
+      rect:
+        serializedVersion: 2
+        x: 11635
+        y: 1343
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8f801b7c15ef80800000000000000
+      internalID: -8078019041734717942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_76
+      rect:
+        serializedVersion: 2
+        x: 12015
+        y: 383
+        width: 98
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd6419bbda1d4980800000000000000
+      internalID: -8553150586301420078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1071
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6541e5e1e8377b0800000000000000
+      internalID: -5227678481368459555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_78
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1071
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e1f0973035cfd0800000000000000
+      internalID: -2322397017626515724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1071
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c549e65a2807200800000000000000
+      internalID: 175784032503880792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_80
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1151
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cc0e2db4e83ac10800000000000000
+      internalID: 2063649510577458238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_81
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1135
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db817c5a8b637f0800000000000000
+      internalID: -633115675449574138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_82
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1151
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187b616ecc37fe220800000000000000
+      internalID: 2517358040594167681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_83
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1151
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29011eb8fad84d0d0800000000000000
+      internalID: -3398936033652305774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_84
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1151
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0fe779f6ec2bc0800000000000000
+      internalID: -3806413625901511091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_85
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1151
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10cfb13e8b364390800000000000000
+      internalID: -7834509019858354146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_86
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1215
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ed50caa43141b0800000000000000
+      internalID: -5674196147533649828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_87
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1215
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409e8e7fe8b042830800000000000000
+      internalID: 4045371073958045956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_88
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1263
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328906f585bf4c4b0800000000000000
+      internalID: -5420931694471374813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_89
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1135
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aca548ebddfc6e0800000000000000
+      internalID: -1814988314472953262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_90
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 1087
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc18e33d73ed120800000000000000
+      internalID: 2440449428507708507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_91
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 1215
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce3793b9f5c0900800000000000000
+      internalID: 652001166350347277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_92
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 1247
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bbb9e4616a18cf0800000000000000
+      internalID: -251737489417716905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_93
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 1263
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4240a8c77fa1e0800000000000000
+      internalID: -2184395590685536341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_94
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 1151
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ecb1e2c33907dd0800000000000000
+      internalID: -2490328707254989231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_95
+      rect:
+        serializedVersion: 2
+        x: 11680
+        y: 1247
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbc9248d381c97c0800000000000000
+      internalID: -4063346111305626627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_96
+      rect:
+        serializedVersion: 2
+        x: 11750
+        y: 0
+        width: 27
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39c2734cc060630800000000000000
+      internalID: 3892812964787164151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_97
+      rect:
+        serializedVersion: 2
+        x: 13279
+        y: 1087
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33058ea460912e310800000000000000
+      internalID: 1432735146274476083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_98
+      rect:
+        serializedVersion: 2
+        x: 14895
+        y: 1071
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb90c785682035c0800000000000000
+      internalID: -4237842832821281856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1087
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5caa9384526f530800000000000000
+      internalID: 3888336320416368044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_100
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1087
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5cc9f8ab7814640800000000000000
+      internalID: 5062476691484231079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_101
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1151
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458dd8407485be3c0800000000000000
+      internalID: -4329269554744272812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_102
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1087
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45467c2937ea87ee0800000000000000
+      internalID: -1263067884070411180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_103
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1103
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28167ee5964e4a2e0800000000000000
+      internalID: -2115314783742369406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_104
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 1151
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09717d607296b9680800000000000000
+      internalID: -8747282234897655920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_105
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 1151
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee47a687bee4b2c0800000000000000
+      internalID: -4416642862538076435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_106
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 879
+        width: 130
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6285f2f986e5f7ea0800000000000000
+      internalID: -5872871585627547610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_107
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 1199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331fd6b52da907f30800000000000000
+      internalID: 4571323850048794931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_108
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 1199
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a49ced4b54ea00800000000000000
+      internalID: 784852625309083067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_109
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 1183
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7170d7d78793bd930800000000000000
+      internalID: 4168989069725730583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_110
+      rect:
+        serializedVersion: 2
+        x: 9727
+        y: 1087
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481e6fb883bd3530800000000000000
+      internalID: 3836419857498118208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_111
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 1007
+        width: 73
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed27ae3d99384ce0800000000000000
+      internalID: -1420822334911599128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_112
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1119
+        width: 190
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc3bdcc67f26f80800000000000000
+      internalID: -8114651531888570586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_113
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1151
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3960f6506fc43c00800000000000000
+      internalID: 879555839926495549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_114
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 1151
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ce244115c6b54d0800000000000000
+      internalID: -3144800819300078580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_115
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 1135
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6464f187e41930800000000000000
+      internalID: 4113166905033124632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_116
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 1119
+        width: 274
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dbcb4d8a9607230800000000000000
+      internalID: 3634521073132551581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_117
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 1151
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b66059aa35da1b0800000000000000
+      internalID: -5643762765915591877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_118
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 1151
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eafef7ab22274c0800000000000000
+      internalID: -4291329310524985715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_119
+      rect:
+        serializedVersion: 2
+        x: 11679
+        y: 927
+        width: 73
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d346d03ebc5e32120800000000000000
+      internalID: 2388004891286922301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_120
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 1055
+        width: 194
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd28518a6941ef7c0800000000000000
+      internalID: -4035765578779753765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_121
+      rect:
+        serializedVersion: 2
+        x: 8255
+        y: 1087
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2859abae6025b8ec0800000000000000
+      internalID: -3563664490472237694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_122
+      rect:
+        serializedVersion: 2
+        x: 13804
+        y: 1007
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e75bd50b0b25710800000000000000
+      internalID: 1680599882495524370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_123
+      rect:
+        serializedVersion: 2
+        x: 14207
+        y: 911
+        width: 370
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab25b243a5801e0800000000000000
+      internalID: -2231434435250439534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_124
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 847
+        width: 754
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c6080bbc7abee0800000000000000
+      internalID: -1244545204279131822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_125
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 463
+        width: 498
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98560f17b6f271840800000000000000
+      internalID: 5194672833714742665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_126
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 927
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6766bf69bc62aa0d0800000000000000
+      internalID: -3410871111926454666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_127
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 1007
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc41b7d3545d07b0800000000000000
+      internalID: -5256452470993761104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_128
+      rect:
+        serializedVersion: 2
+        x: 6991
+        y: 879
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8042669692ef60800000000000000
+      internalID: 8062171855584268158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_129
+      rect:
+        serializedVersion: 2
+        x: 7247
+        y: 895
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d4925ee623ce00800000000000000
+      internalID: 1063736742019125545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_130
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 895
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20202e8af4727c70800000000000000
+      internalID: 8967358427523194923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_131
+      rect:
+        serializedVersion: 2
+        x: 9807
+        y: 879
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47fb1f3e6c2f200800000000000000
+      internalID: 212450814755566768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_132
+      rect:
+        serializedVersion: 2
+        x: 10143
+        y: 1007
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc10b31a6b9f390800000000000000
+      internalID: -7783989677337227820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_133
+      rect:
+        serializedVersion: 2
+        x: 10544
+        y: 1007
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43207e9fbf5c58580800000000000000
+      internalID: -8825430208742489548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_134
+      rect:
+        serializedVersion: 2
+        x: 10767
+        y: 815
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc6d7fa40289c40800000000000000
+      internalID: 5519196849700261836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_135
+      rect:
+        serializedVersion: 2
+        x: 11135
+        y: 831
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7bdb8dec6d4a4a0800000000000000
+      internalID: -6582900571420903468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_136
+      rect:
+        serializedVersion: 2
+        x: 11615
+        y: 927
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9d516e6d007910800000000000000
+      internalID: 1832979816070879833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_137
+      rect:
+        serializedVersion: 2
+        x: 12815
+        y: 815
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf72abf16645da860800000000000000
+      internalID: 7542777748511139836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_138
+      rect:
+        serializedVersion: 2
+        x: 13071
+        y: 831
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3d40dbc3507b00800000000000000
+      internalID: 824250866646990694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_139
+      rect:
+        serializedVersion: 2
+        x: 13583
+        y: 959
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eabcbc2b7a14080800000000000000
+      internalID: -9204891777003442548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_140
+      rect:
+        serializedVersion: 2
+        x: 13791
+        y: 1007
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ead8cc08cdc426c0800000000000000
+      internalID: -4168981095946593568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_141
+      rect:
+        serializedVersion: 2
+        x: 14083
+        y: 1007
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23321575b7ff16890800000000000000
+      internalID: -7466405801992576206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_142
+      rect:
+        serializedVersion: 2
+        x: 14099
+        y: 1007
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4350367ff2c11c40800000000000000
+      internalID: 5481376623941931850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_143
+      rect:
+        serializedVersion: 2
+        x: 14115
+        y: 1007
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c93f746c211afe0800000000000000
+      internalID: -1179640984574387192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_144
+      rect:
+        serializedVersion: 2
+        x: 14131
+        y: 1007
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4418dae2b0f0d690800000000000000
+      internalID: -7579293521629670323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_145
+      rect:
+        serializedVersion: 2
+        x: 14147
+        y: 1007
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13c6a965d9a57b60800000000000000
+      internalID: 7743281868399100702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_146
+      rect:
+        serializedVersion: 2
+        x: 14159
+        y: 1007
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380b5b807069a8f0800000000000000
+      internalID: -528785444748720069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_147
+      rect:
+        serializedVersion: 2
+        x: 14191
+        y: 1007
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb4f99779c0ae090800000000000000
+      internalID: -8004571542977557534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_148
+      rect:
+        serializedVersion: 2
+        x: 15279
+        y: 943
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a5fb379389cd70800000000000000
+      internalID: 9063920410629087257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_149
+      rect:
+        serializedVersion: 2
+        x: 7055
+        y: 847
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97469c2e4e1db0d40800000000000000
+      internalID: 5551761746651866233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_150
+      rect:
+        serializedVersion: 2
+        x: 7616
+        y: 895
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19cc811a96a5b1d0800000000000000
+      internalID: -3335576768348370657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_151
+      rect:
+        serializedVersion: 2
+        x: 9871
+        y: 847
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2719ca8f66b49eb00800000000000000
+      internalID: 858300109621596530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_152
+      rect:
+        serializedVersion: 2
+        x: 10847
+        y: 831
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc3f746da88dcb80800000000000000
+      internalID: -8372885853915104074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_153
+      rect:
+        serializedVersion: 2
+        x: 11359
+        y: 831
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137794b5a0f319660800000000000000
+      internalID: 7390757777205458737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_154
+      rect:
+        serializedVersion: 2
+        x: 12495
+        y: 936
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab303bfa0ab7c350800000000000000
+      internalID: 6036998381840120750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_155
+      rect:
+        serializedVersion: 2
+        x: 12503
+        y: 930
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b914e6f6bee4660800000000000000
+      internalID: 7372088503875771189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_156
+      rect:
+        serializedVersion: 2
+        x: 12511
+        y: 895
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc490c19422132810800000000000000
+      internalID: 1739253829368583371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_157
+      rect:
+        serializedVersion: 2
+        x: 12528
+        y: 936
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02ac204c9bae4b0800000000000000
+      internalID: -5410307750820699998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_158
+      rect:
+        serializedVersion: 2
+        x: 12528
+        y: 930
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f094a0ea9a4d730800000000000000
+      internalID: 4023026932110659350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_159
+      rect:
+        serializedVersion: 2
+        x: 12895
+        y: 831
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d810067042e7940f0800000000000000
+      internalID: -1132235138099314291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_160
+      rect:
+        serializedVersion: 2
+        x: 13424
+        y: 927
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f971760c8c85ba7c0800000000000000
+      internalID: -4059053019899684961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_161
+      rect:
+        serializedVersion: 2
+        x: 6895
+        y: 895
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc3a89b7f0a4310800000000000000
+      internalID: 1389940458513485133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_162
+      rect:
+        serializedVersion: 2
+        x: 7919
+        y: 888
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642c7f67856558e0800000000000000
+      internalID: -1705345251524467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_163
+      rect:
+        serializedVersion: 2
+        x: 7932
+        y: 831
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95deb869741153420800000000000000
+      internalID: 2609010558297173337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_164
+      rect:
+        serializedVersion: 2
+        x: 7952
+        y: 888
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdaf6caaf0260160800000000000000
+      internalID: 6991311732546186745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_165
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 831
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f978450f7d9020800000000000000
+      internalID: 2350174241224782089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_166
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 831
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6878f1788aa1290800000000000000
+      internalID: -7918831696474569053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_167
+      rect:
+        serializedVersion: 2
+        x: 8255
+        y: 831
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca50f4ae3bc0750800000000000000
+      internalID: 6272586199949749453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_168
+      rect:
+        serializedVersion: 2
+        x: 8543
+        y: 831
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b280b9e0f08d8d0800000000000000
+      internalID: -2821488611142653044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_169
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 831
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b37877f000cd6e0800000000000000
+      internalID: -1811572883679921362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_170
+      rect:
+        serializedVersion: 2
+        x: 13199
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea43b7d9dc913f0800000000000000
+      internalID: -929485771814687017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_171
+      rect:
+        serializedVersion: 2
+        x: 14847
+        y: 735
+        width: 50
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e85d47239fc6de0800000000000000
+      internalID: -1338420994132046280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_172
+      rect:
+        serializedVersion: 2
+        x: 15807
+        y: 895
+        width: 577
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae439799b7df1cf50800000000000000
+      internalID: 6900074811405972714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_173
+      rect:
+        serializedVersion: 2
+        x: 7792
+        y: 831
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2244ed1954953540800000000000000
+      internalID: 4987055272857190959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_174
+      rect:
+        serializedVersion: 2
+        x: 7927
+        y: 882
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd8b132fb32127f0800000000000000
+      internalID: -639190368275165737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_175
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 367
+        width: 1666
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06832c9499bd19110800000000000000
+      internalID: 1266034421681764448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_176
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 799
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ecfd1f629f825f0800000000000000
+      internalID: -781100589686731236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_177
+      rect:
+        serializedVersion: 2
+        x: 7919
+        y: 831
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd69acb1c5765c00800000000000000
+      internalID: 889027451406609905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_178
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 783
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68070fb58b3e673a0800000000000000
+      internalID: -6667891817319468922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_179
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 351
+        width: 578
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bf71339f11aad0800000000000000
+      internalID: -2692836385139739836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_180
+      rect:
+        serializedVersion: 2
+        x: 13567
+        y: 575
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb4b702b368f7980800000000000000
+      internalID: -8538958779965027361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 1089
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55162daa02614840800000000000000
+      internalID: 5206550442211153243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_182
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 735
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd78fd009522c80800000000000000
+      internalID: -8349012898906383375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_183
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 735
+        width: 98
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458822bda30b47fa0800000000000000
+      internalID: -5803820252942661548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_184
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 735
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139e5ad63633c1e0800000000000000
+      internalID: -2178838185497423088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_185
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 671
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167d8aa7fbabc000800000000000000
+      internalID: 57328500478932510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_186
+      rect:
+        serializedVersion: 2
+        x: 8991
+        y: 703
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d287d5a5b97fe0800000000000000
+      internalID: -1190720902572879334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_187
+      rect:
+        serializedVersion: 2
+        x: 11184
+        y: 703
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcde2e6b1d9107e0800000000000000
+      internalID: -1800985634833244937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_188
+      rect:
+        serializedVersion: 2
+        x: 14031
+        y: 559
+        width: 498
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cc15a420f8ae340800000000000000
+      internalID: 4893881185091046416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_189
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 0
+        width: 2242
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354ad49bd150c060800000000000000
+      internalID: 6971662226706548030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_190
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 703
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcc8d02fb7dc020800000000000000
+      internalID: 2363681658979011509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_191
+      rect:
+        serializedVersion: 2
+        x: 10223
+        y: 639
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6929ae43d12869740800000000000000
+      internalID: 5158453485152932502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_192
+      rect:
+        serializedVersion: 2
+        x: 14847
+        y: 591
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e2b9dfb9c1cf3c0800000000000000
+      internalID: -4324550085882204615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_193
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 0
+        width: 1074
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d7dee516c7d7f50800000000000000
+      internalID: 6880792563338280297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_194
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 591
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3ccda5f1091580800000000000000
+      internalID: -8856045037552910416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_195
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 623
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9b158d6378bdc0800000000000000
+      internalID: -3623018985997754418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_196
+      rect:
+        serializedVersion: 2
+        x: 10256
+        y: 639
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f455c35aba53600800000000000000
+      internalID: 447452464163409682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_197
+      rect:
+        serializedVersion: 2
+        x: 10287
+        y: 623
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd710518f5464fd0800000000000000
+      internalID: -2358120423075250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_198
+      rect:
+        serializedVersion: 2
+        x: 10704
+        y: 639
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b924c1b676de9a20800000000000000
+      internalID: 3071127801190164919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_199
+      rect:
+        serializedVersion: 2
+        x: 13967
+        y: 575
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065395b7d90eaec00800000000000000
+      internalID: 930803239989359968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_200
+      rect:
+        serializedVersion: 2
+        x: 13999
+        y: 575
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54eaba1f9f1c5940800000000000000
+      internalID: 5286134830834836573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_201
+      rect:
+        serializedVersion: 2
+        x: 16143
+        y: 479
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbd3a2d823bdc7e0800000000000000
+      internalID: -1743540492808496179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_202
+      rect:
+        serializedVersion: 2
+        x: 16223
+        y: 495
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0abe02ec3a1be90800000000000000
+      internalID: -7011643039128248125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 545
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098fb58aaab6c5be0800000000000000
+      internalID: -1487195396225894256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_204
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 511
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207797b1f72c4ef40800000000000000
+      internalID: 5756940074863916802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_205
+      rect:
+        serializedVersion: 2
+        x: 8767
+        y: 415
+        width: 274
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c8187a8635cbd50800000000000000
+      internalID: 6754365250100890775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_206
+      rect:
+        serializedVersion: 2
+        x: 13711
+        y: 575
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60595f81166507cb0800000000000000
+      internalID: -4868296222156942074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_207
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 303
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36b710cf18686d0800000000000000
+      internalID: -2988558383357140059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_208
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 319
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083d250cc33f3cb0800000000000000
+      internalID: -4882126519693133820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_209
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 319
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a74eaf775e78a10800000000000000
+      internalID: 1911748870315211318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_210
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 239
+        width: 194
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b0a6f05ab87ac0800000000000000
+      internalID: -3857128223944952054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_211
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 335
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cad3c71f9737bf0800000000000000
+      internalID: -327784269789418440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_212
+      rect:
+        serializedVersion: 2
+        x: 6719
+        y: 351
+        width: 210
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29539ab5c0fd6dac0800000000000000
+      internalID: -3830629188861610606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_213
+      rect:
+        serializedVersion: 2
+        x: 7279
+        y: 431
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642bfd73d7e512f0800000000000000
+      internalID: -1002640446482340757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_214
+      rect:
+        serializedVersion: 2
+        x: 7487
+        y: 415
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec044e5c82a695290800000000000000
+      internalID: -7901167347893518130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_215
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 447
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110bb0ad0d57da30800000000000000
+      internalID: 4239959887305179409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_216
+      rect:
+        serializedVersion: 2
+        x: 8719
+        y: 0
+        width: 1346
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2705a8061a2500800000000000000
+      internalID: 372134145595748124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_217
+      rect:
+        serializedVersion: 2
+        x: 15087
+        y: 367
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7a05585d2cbec0800000000000000
+      internalID: -3549912548867671386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_218
+      rect:
+        serializedVersion: 2
+        x: 15551
+        y: 431
+        width: 482
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbcff9379df70c0800000000000000
+      internalID: -4575699605756527313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_219
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 255
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0fa8c0c3d78ae0800000000000000
+      internalID: -1547035122024379667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_220
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 415
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34333d6196f5386b0800000000000000
+      internalID: -5295283831898426557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_221
+      rect:
+        serializedVersion: 2
+        x: 15056
+        y: 367
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910dbc5f60c1e440800000000000000
+      internalID: 4963459848868790687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_222
+      rect:
+        serializedVersion: 2
+        x: 15119
+        y: 367
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1c6f771d106930800000000000000
+      internalID: 4134336444685360686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_223
+      rect:
+        serializedVersion: 2
+        x: 15327
+        y: 383
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa46500ea3919840800000000000000
+      internalID: 5229123017893104369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_224
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 95
+        width: 274
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f989db7c1dfad860800000000000000
+      internalID: 7555629623646194160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_225
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 31
+        width: 137
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4addf24fce920000800000000000000
+      internalID: 737562972772938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_226
+      rect:
+        serializedVersion: 2
+        x: 7391
+        y: 223
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a488ac630fef74f0800000000000000
+      internalID: -828681008425958231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_227
+      rect:
+        serializedVersion: 2
+        x: 7567
+        y: 271
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a192bd0a9e92f0800000000000000
+      internalID: -964163886589565837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_228
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 335
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb275045fd8b73b30800000000000000
+      internalID: 4267082441283695294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_229
+      rect:
+        serializedVersion: 2
+        x: 13984
+        y: 351
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d3d6d6a33a33c0800000000000000
+      internalID: -4379130896002591062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_230
+      rect:
+        serializedVersion: 2
+        x: 14911
+        y: 319
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698adc8f3e66fa220800000000000000
+      internalID: 2499329447531751574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_231
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a587e1b1e54e00800000000000000
+      internalID: 1028476244133783963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_232
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 271
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5388eb4912fffcb80800000000000000
+      internalID: -8372192662563944395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_233
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 0
+        width: 34
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a05bec4682044c0800000000000000
+      internalID: -4305396830336382371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_234
+      rect:
+        serializedVersion: 2
+        x: 7599
+        y: 271
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda3c94bc54c1f3f0800000000000000
+      internalID: -868697350659622178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_235
+      rect:
+        serializedVersion: 2
+        x: 14639
+        y: 239
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6ce058659e1650800000000000000
+      internalID: 6205561611829930504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_236
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 207
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bbae7200f591940800000000000000
+      internalID: 5267345693460839255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_237
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 255
+        width: 466
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52699a769db4a780800000000000000
+      internalID: -8672598528409116065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_238
+      rect:
+        serializedVersion: 2
+        x: 8687
+        y: 271
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72d182a94a31eb10800000000000000
+      internalID: 2008950996717392508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_239
+      rect:
+        serializedVersion: 2
+        x: 14608
+        y: 239
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582821310bed0770800000000000000
+      internalID: 8578771255562872921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_240
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 81
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f95b472bb14a7f0800000000000000
+      internalID: -602325996884615271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_241
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 175
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e90caea0488ecc0800000000000000
+      internalID: -3681547512952349079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_242
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 191
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9079f1ea5008d00800000000000000
+      internalID: 972783764924467676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_243
+      rect:
+        serializedVersion: 2
+        x: 7663
+        y: 47
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ccd187a30c06860800000000000000
+      internalID: 7521222735064583306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_244
+      rect:
+        serializedVersion: 2
+        x: 8479
+        y: 200
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039c8222953e89b0800000000000000
+      internalID: -5076060828238834930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_245
+      rect:
+        serializedVersion: 2
+        x: 8487
+        y: 194
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179a0884ff7fe330800000000000000
+      internalID: 3742350503599314705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_246
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 143
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4a2413d078d630800000000000000
+      internalID: 3952032724896337299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_247
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 200
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec2ba5cd6725bb0800000000000000
+      internalID: -4948762351740203337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_248
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 194
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68151897724607f70800000000000000
+      internalID: 9182949760913461638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_249
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 175
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b2538b8025ba840800000000000000
+      internalID: 5236369189152041786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_250
+      rect:
+        serializedVersion: 2
+        x: 14671
+        y: 191
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb68f15c0626f7020800000000000000
+      internalID: 2341698499019507387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_251
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 0
+        width: 322
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc5dcb16a5873350800000000000000
+      internalID: 5996408377344613620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_252
+      rect:
+        serializedVersion: 2
+        x: 7103
+        y: 0
+        width: 642
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37bd840791fec890800000000000000
+      internalID: -7435740303823358150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_253
+      rect:
+        serializedVersion: 2
+        x: 7408
+        y: 143
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cf45041fe3fab0800000000000000
+      internalID: -4975370294046767855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_254
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 143
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9640a41b08b6d560800000000000000
+      internalID: 7338255000577001117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_255
+      rect:
+        serializedVersion: 2
+        x: 7791
+        y: 136
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843228cc09ec0a80800000000000000
+      internalID: -8499162155648404338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_256
+      rect:
+        serializedVersion: 2
+        x: 7807
+        y: 95
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad2b9fb593d2ce0800000000000000
+      internalID: -1428422439612523990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_257
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 136
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b160271d0bada090800000000000000
+      internalID: -8021567288566062669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_258
+      rect:
+        serializedVersion: 2
+        x: 7855
+        y: 0
+        width: 514
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c762524911ec2410800000000000000
+      internalID: 1453784278336956352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_259
+      rect:
+        serializedVersion: 2
+        x: 8543
+        y: 95
+        width: 146
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175623dd6ae43a540800000000000000
+      internalID: 5017940888403469681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_260
+      rect:
+        serializedVersion: 2
+        x: 7799
+        y: 130
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a9909dcd89b790800000000000000
+      internalID: -7513818589257162745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_261
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 130
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb234a5bc00cf8550800000000000000
+      internalID: 6165357575713075903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_262
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 31
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ff16cd043a27b0800000000000000
+      internalID: -5248325181983690285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_263
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 0
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d961bd4193b030800000000000000
+      internalID: 3509308297526759924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_264
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 31
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78a99be52568770800000000000000
+      internalID: 8612661904186968009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene1-FG High_v1.00.0717_265
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 0
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc5ea1f9287e950800000000000000
+      internalID: 6478290208858426596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scene1-FG High_v1.00.0717_0: -5311543406807287817
+      Scene1-FG High_v1.00.0717_1: 3801057687542330666
+      Scene1-FG High_v1.00.0717_10: 4331835715414077759
+      Scene1-FG High_v1.00.0717_100: 5062476691484231079
+      Scene1-FG High_v1.00.0717_101: -4329269554744272812
+      Scene1-FG High_v1.00.0717_102: -1263067884070411180
+      Scene1-FG High_v1.00.0717_103: -2115314783742369406
+      Scene1-FG High_v1.00.0717_104: -8747282234897655920
+      Scene1-FG High_v1.00.0717_105: -4416642862538076435
+      Scene1-FG High_v1.00.0717_106: -5872871585627547610
+      Scene1-FG High_v1.00.0717_107: 4571323850048794931
+      Scene1-FG High_v1.00.0717_108: 784852625309083067
+      Scene1-FG High_v1.00.0717_109: 4168989069725730583
+      Scene1-FG High_v1.00.0717_11: 3807712849738175857
+      Scene1-FG High_v1.00.0717_110: 3836419857498118208
+      Scene1-FG High_v1.00.0717_111: -1420822334911599128
+      Scene1-FG High_v1.00.0717_112: -8114651531888570586
+      Scene1-FG High_v1.00.0717_113: 879555839926495549
+      Scene1-FG High_v1.00.0717_114: -3144800819300078580
+      Scene1-FG High_v1.00.0717_115: 4113166905033124632
+      Scene1-FG High_v1.00.0717_116: 3634521073132551581
+      Scene1-FG High_v1.00.0717_117: -5643762765915591877
+      Scene1-FG High_v1.00.0717_118: -4291329310524985715
+      Scene1-FG High_v1.00.0717_119: 2388004891286922301
+      Scene1-FG High_v1.00.0717_12: -1064463450614995178
+      Scene1-FG High_v1.00.0717_120: -4035765578779753765
+      Scene1-FG High_v1.00.0717_121: -3563664490472237694
+      Scene1-FG High_v1.00.0717_122: 1680599882495524370
+      Scene1-FG High_v1.00.0717_123: -2231434435250439534
+      Scene1-FG High_v1.00.0717_124: -1244545204279131822
+      Scene1-FG High_v1.00.0717_125: 5194672833714742665
+      Scene1-FG High_v1.00.0717_126: -3410871111926454666
+      Scene1-FG High_v1.00.0717_127: -5256452470993761104
+      Scene1-FG High_v1.00.0717_128: 8062171855584268158
+      Scene1-FG High_v1.00.0717_129: 1063736742019125545
+      Scene1-FG High_v1.00.0717_13: -8368432413494411019
+      Scene1-FG High_v1.00.0717_130: 8967358427523194923
+      Scene1-FG High_v1.00.0717_131: 212450814755566768
+      Scene1-FG High_v1.00.0717_132: -7783989677337227820
+      Scene1-FG High_v1.00.0717_133: -8825430208742489548
+      Scene1-FG High_v1.00.0717_134: 5519196849700261836
+      Scene1-FG High_v1.00.0717_135: -6582900571420903468
+      Scene1-FG High_v1.00.0717_136: 1832979816070879833
+      Scene1-FG High_v1.00.0717_137: 7542777748511139836
+      Scene1-FG High_v1.00.0717_138: 824250866646990694
+      Scene1-FG High_v1.00.0717_139: -9204891777003442548
+      Scene1-FG High_v1.00.0717_14: -7145921128652823285
+      Scene1-FG High_v1.00.0717_140: -4168981095946593568
+      Scene1-FG High_v1.00.0717_141: -7466405801992576206
+      Scene1-FG High_v1.00.0717_142: 5481376623941931850
+      Scene1-FG High_v1.00.0717_143: -1179640984574387192
+      Scene1-FG High_v1.00.0717_144: -7579293521629670323
+      Scene1-FG High_v1.00.0717_145: 7743281868399100702
+      Scene1-FG High_v1.00.0717_146: -528785444748720069
+      Scene1-FG High_v1.00.0717_147: -8004571542977557534
+      Scene1-FG High_v1.00.0717_148: 9063920410629087257
+      Scene1-FG High_v1.00.0717_149: 5551761746651866233
+      Scene1-FG High_v1.00.0717_15: 6457104322035057303
+      Scene1-FG High_v1.00.0717_150: -3335576768348370657
+      Scene1-FG High_v1.00.0717_151: 858300109621596530
+      Scene1-FG High_v1.00.0717_152: -8372885853915104074
+      Scene1-FG High_v1.00.0717_153: 7390757777205458737
+      Scene1-FG High_v1.00.0717_154: 6036998381840120750
+      Scene1-FG High_v1.00.0717_155: 7372088503875771189
+      Scene1-FG High_v1.00.0717_156: 1739253829368583371
+      Scene1-FG High_v1.00.0717_157: -5410307750820699998
+      Scene1-FG High_v1.00.0717_158: 4023026932110659350
+      Scene1-FG High_v1.00.0717_159: -1132235138099314291
+      Scene1-FG High_v1.00.0717_16: -3771646662440910953
+      Scene1-FG High_v1.00.0717_160: -4059053019899684961
+      Scene1-FG High_v1.00.0717_161: 1389940458513485133
+      Scene1-FG High_v1.00.0717_162: -1705345251524467608
+      Scene1-FG High_v1.00.0717_163: 2609010558297173337
+      Scene1-FG High_v1.00.0717_164: 6991311732546186745
+      Scene1-FG High_v1.00.0717_165: 2350174241224782089
+      Scene1-FG High_v1.00.0717_166: -7918831696474569053
+      Scene1-FG High_v1.00.0717_167: 6272586199949749453
+      Scene1-FG High_v1.00.0717_168: -2821488611142653044
+      Scene1-FG High_v1.00.0717_169: -1811572883679921362
+      Scene1-FG High_v1.00.0717_17: 2054013983906438527
+      Scene1-FG High_v1.00.0717_170: -929485771814687017
+      Scene1-FG High_v1.00.0717_171: -1338420994132046280
+      Scene1-FG High_v1.00.0717_172: 6900074811405972714
+      Scene1-FG High_v1.00.0717_173: 4987055272857190959
+      Scene1-FG High_v1.00.0717_174: -639190368275165737
+      Scene1-FG High_v1.00.0717_175: 1266034421681764448
+      Scene1-FG High_v1.00.0717_176: -781100589686731236
+      Scene1-FG High_v1.00.0717_177: 889027451406609905
+      Scene1-FG High_v1.00.0717_178: -6667891817319468922
+      Scene1-FG High_v1.00.0717_179: -2692836385139739836
+      Scene1-FG High_v1.00.0717_18: 1109810689959212118
+      Scene1-FG High_v1.00.0717_180: -8538958779965027361
+      Scene1-FG High_v1.00.0717_181: 5206550442211153243
+      Scene1-FG High_v1.00.0717_182: -8349012898906383375
+      Scene1-FG High_v1.00.0717_183: -5803820252942661548
+      Scene1-FG High_v1.00.0717_184: -2178838185497423088
+      Scene1-FG High_v1.00.0717_185: 57328500478932510
+      Scene1-FG High_v1.00.0717_186: -1190720902572879334
+      Scene1-FG High_v1.00.0717_187: -1800985634833244937
+      Scene1-FG High_v1.00.0717_188: 4893881185091046416
+      Scene1-FG High_v1.00.0717_189: 6971662226706548030
+      Scene1-FG High_v1.00.0717_19: 3697624682293056864
+      Scene1-FG High_v1.00.0717_190: 2363681658979011509
+      Scene1-FG High_v1.00.0717_191: 5158453485152932502
+      Scene1-FG High_v1.00.0717_192: -4324550085882204615
+      Scene1-FG High_v1.00.0717_193: 6880792563338280297
+      Scene1-FG High_v1.00.0717_194: -8856045037552910416
+      Scene1-FG High_v1.00.0717_195: -3623018985997754418
+      Scene1-FG High_v1.00.0717_196: 447452464163409682
+      Scene1-FG High_v1.00.0717_197: -2358120423075250698
+      Scene1-FG High_v1.00.0717_198: 3071127801190164919
+      Scene1-FG High_v1.00.0717_199: 930803239989359968
+      Scene1-FG High_v1.00.0717_2: 6387002269252080202
+      Scene1-FG High_v1.00.0717_20: -7305325140812787618
+      Scene1-FG High_v1.00.0717_200: 5286134830834836573
+      Scene1-FG High_v1.00.0717_201: -1743540492808496179
+      Scene1-FG High_v1.00.0717_202: -7011643039128248125
+      Scene1-FG High_v1.00.0717_203: -1487195396225894256
+      Scene1-FG High_v1.00.0717_204: 5756940074863916802
+      Scene1-FG High_v1.00.0717_205: 6754365250100890775
+      Scene1-FG High_v1.00.0717_206: -4868296222156942074
+      Scene1-FG High_v1.00.0717_207: -2988558383357140059
+      Scene1-FG High_v1.00.0717_208: -4882126519693133820
+      Scene1-FG High_v1.00.0717_209: 1911748870315211318
+      Scene1-FG High_v1.00.0717_21: 1236546166163222195
+      Scene1-FG High_v1.00.0717_210: -3857128223944952054
+      Scene1-FG High_v1.00.0717_211: -327784269789418440
+      Scene1-FG High_v1.00.0717_212: -3830629188861610606
+      Scene1-FG High_v1.00.0717_213: -1002640446482340757
+      Scene1-FG High_v1.00.0717_214: -7901167347893518130
+      Scene1-FG High_v1.00.0717_215: 4239959887305179409
+      Scene1-FG High_v1.00.0717_216: 372134145595748124
+      Scene1-FG High_v1.00.0717_217: -3549912548867671386
+      Scene1-FG High_v1.00.0717_218: -4575699605756527313
+      Scene1-FG High_v1.00.0717_219: -1547035122024379667
+      Scene1-FG High_v1.00.0717_22: -9111207584193104544
+      Scene1-FG High_v1.00.0717_220: -5295283831898426557
+      Scene1-FG High_v1.00.0717_221: 4963459848868790687
+      Scene1-FG High_v1.00.0717_222: 4134336444685360686
+      Scene1-FG High_v1.00.0717_223: 5229123017893104369
+      Scene1-FG High_v1.00.0717_224: 7555629623646194160
+      Scene1-FG High_v1.00.0717_225: 737562972772938
+      Scene1-FG High_v1.00.0717_226: -828681008425958231
+      Scene1-FG High_v1.00.0717_227: -964163886589565837
+      Scene1-FG High_v1.00.0717_228: 4267082441283695294
+      Scene1-FG High_v1.00.0717_229: -4379130896002591062
+      Scene1-FG High_v1.00.0717_23: 1089149102135183291
+      Scene1-FG High_v1.00.0717_230: 2499329447531751574
+      Scene1-FG High_v1.00.0717_231: 1028476244133783963
+      Scene1-FG High_v1.00.0717_232: -8372192662563944395
+      Scene1-FG High_v1.00.0717_233: -4305396830336382371
+      Scene1-FG High_v1.00.0717_234: -868697350659622178
+      Scene1-FG High_v1.00.0717_235: 6205561611829930504
+      Scene1-FG High_v1.00.0717_236: 5267345693460839255
+      Scene1-FG High_v1.00.0717_237: -8672598528409116065
+      Scene1-FG High_v1.00.0717_238: 2008950996717392508
+      Scene1-FG High_v1.00.0717_239: 8578771255562872921
+      Scene1-FG High_v1.00.0717_24: -260593566646918813
+      Scene1-FG High_v1.00.0717_240: -602325996884615271
+      Scene1-FG High_v1.00.0717_241: -3681547512952349079
+      Scene1-FG High_v1.00.0717_242: 972783764924467676
+      Scene1-FG High_v1.00.0717_243: 7521222735064583306
+      Scene1-FG High_v1.00.0717_244: -5076060828238834930
+      Scene1-FG High_v1.00.0717_245: 3742350503599314705
+      Scene1-FG High_v1.00.0717_246: 3952032724896337299
+      Scene1-FG High_v1.00.0717_247: -4948762351740203337
+      Scene1-FG High_v1.00.0717_248: 9182949760913461638
+      Scene1-FG High_v1.00.0717_249: 5236369189152041786
+      Scene1-FG High_v1.00.0717_25: -8025336889580289177
+      Scene1-FG High_v1.00.0717_250: 2341698499019507387
+      Scene1-FG High_v1.00.0717_251: 5996408377344613620
+      Scene1-FG High_v1.00.0717_252: -7435740303823358150
+      Scene1-FG High_v1.00.0717_253: -4975370294046767855
+      Scene1-FG High_v1.00.0717_254: 7338255000577001117
+      Scene1-FG High_v1.00.0717_255: -8499162155648404338
+      Scene1-FG High_v1.00.0717_256: -1428422439612523990
+      Scene1-FG High_v1.00.0717_257: -8021567288566062669
+      Scene1-FG High_v1.00.0717_258: 1453784278336956352
+      Scene1-FG High_v1.00.0717_259: 5017940888403469681
+      Scene1-FG High_v1.00.0717_26: -5756149546842430493
+      Scene1-FG High_v1.00.0717_260: -7513818589257162745
+      Scene1-FG High_v1.00.0717_261: 6165357575713075903
+      Scene1-FG High_v1.00.0717_262: -5248325181983690285
+      Scene1-FG High_v1.00.0717_263: 3509308297526759924
+      Scene1-FG High_v1.00.0717_264: 8612661904186968009
+      Scene1-FG High_v1.00.0717_265: 6478290208858426596
+      Scene1-FG High_v1.00.0717_27: 9035496338138909730
+      Scene1-FG High_v1.00.0717_28: -3449052733528989362
+      Scene1-FG High_v1.00.0717_29: 8207726757572886623
+      Scene1-FG High_v1.00.0717_3: 7554895228086117130
+      Scene1-FG High_v1.00.0717_30: -6813110092527088293
+      Scene1-FG High_v1.00.0717_31: 3359213631482370876
+      Scene1-FG High_v1.00.0717_32: 4941279895842876942
+      Scene1-FG High_v1.00.0717_33: -2727185836530550646
+      Scene1-FG High_v1.00.0717_34: 1165931679249225981
+      Scene1-FG High_v1.00.0717_35: -5685879648492310201
+      Scene1-FG High_v1.00.0717_36: 6281416515842472703
+      Scene1-FG High_v1.00.0717_37: -3305455393387277624
+      Scene1-FG High_v1.00.0717_38: 7057481033497002814
+      Scene1-FG High_v1.00.0717_39: 3377711640105451405
+      Scene1-FG High_v1.00.0717_4: -6604353483317211920
+      Scene1-FG High_v1.00.0717_40: 5657757041908491481
+      Scene1-FG High_v1.00.0717_41: -6792533035866537444
+      Scene1-FG High_v1.00.0717_42: 4570638555151195686
+      Scene1-FG High_v1.00.0717_43: -6281918671772301650
+      Scene1-FG High_v1.00.0717_44: -7561073253819787214
+      Scene1-FG High_v1.00.0717_45: -6055244993744830636
+      Scene1-FG High_v1.00.0717_46: 4888500910006454149
+      Scene1-FG High_v1.00.0717_47: -8377524889017076523
+      Scene1-FG High_v1.00.0717_48: -7796853209993157511
+      Scene1-FG High_v1.00.0717_49: 7323239215791710697
+      Scene1-FG High_v1.00.0717_5: 5788525077887090119
+      Scene1-FG High_v1.00.0717_50: 6381338807860088613
+      Scene1-FG High_v1.00.0717_51: -191833829754564688
+      Scene1-FG High_v1.00.0717_52: -5277319752088018027
+      Scene1-FG High_v1.00.0717_53: 347294254881306597
+      Scene1-FG High_v1.00.0717_54: 135665742361945241
+      Scene1-FG High_v1.00.0717_55: 1481422543452304866
+      Scene1-FG High_v1.00.0717_56: -4989362156842695831
+      Scene1-FG High_v1.00.0717_57: -5744697880687539179
+      Scene1-FG High_v1.00.0717_58: 1967164710252479759
+      Scene1-FG High_v1.00.0717_59: 2745269744980924
+      Scene1-FG High_v1.00.0717_6: 8065831058593995065
+      Scene1-FG High_v1.00.0717_60: 4495310811240125203
+      Scene1-FG High_v1.00.0717_61: 4129911830566731904
+      Scene1-FG High_v1.00.0717_62: -204291840508041343
+      Scene1-FG High_v1.00.0717_63: 1263295592438577770
+      Scene1-FG High_v1.00.0717_64: -2848006755935875868
+      Scene1-FG High_v1.00.0717_65: 7185024971388561383
+      Scene1-FG High_v1.00.0717_66: -3390979843300347012
+      Scene1-FG High_v1.00.0717_67: 8363433679720560567
+      Scene1-FG High_v1.00.0717_68: -2004954054254100919
+      Scene1-FG High_v1.00.0717_69: -6969927357321357687
+      Scene1-FG High_v1.00.0717_7: 944282057376641291
+      Scene1-FG High_v1.00.0717_70: 7224314075586997262
+      Scene1-FG High_v1.00.0717_71: 3984720193918034057
+      Scene1-FG High_v1.00.0717_72: 3218216537675321257
+      Scene1-FG High_v1.00.0717_73: 7705592484728596417
+      Scene1-FG High_v1.00.0717_74: 8689062732950590371
+      Scene1-FG High_v1.00.0717_75: -8078019041734717942
+      Scene1-FG High_v1.00.0717_76: -8553150586301420078
+      Scene1-FG High_v1.00.0717_77: -5227678481368459555
+      Scene1-FG High_v1.00.0717_78: -2322397017626515724
+      Scene1-FG High_v1.00.0717_79: 175784032503880792
+      Scene1-FG High_v1.00.0717_8: 8449547304069313867
+      Scene1-FG High_v1.00.0717_80: 2063649510577458238
+      Scene1-FG High_v1.00.0717_81: -633115675449574138
+      Scene1-FG High_v1.00.0717_82: 2517358040594167681
+      Scene1-FG High_v1.00.0717_83: -3398936033652305774
+      Scene1-FG High_v1.00.0717_84: -3806413625901511091
+      Scene1-FG High_v1.00.0717_85: -7834509019858354146
+      Scene1-FG High_v1.00.0717_86: -5674196147533649828
+      Scene1-FG High_v1.00.0717_87: 4045371073958045956
+      Scene1-FG High_v1.00.0717_88: -5420931694471374813
+      Scene1-FG High_v1.00.0717_89: -1814988314472953262
+      Scene1-FG High_v1.00.0717_9: 1285004683846436763
+      Scene1-FG High_v1.00.0717_90: 2440449428507708507
+      Scene1-FG High_v1.00.0717_91: 652001166350347277
+      Scene1-FG High_v1.00.0717_92: -251737489417716905
+      Scene1-FG High_v1.00.0717_93: -2184395590685536341
+      Scene1-FG High_v1.00.0717_94: -2490328707254989231
+      Scene1-FG High_v1.00.0717_95: -4063346111305626627
+      Scene1-FG High_v1.00.0717_96: 3892812964787164151
+      Scene1-FG High_v1.00.0717_97: 1432735146274476083
+      Scene1-FG High_v1.00.0717_98: -4237842832821281856
+      Scene1-FG High_v1.00.0717_99: 3888336320416368044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
