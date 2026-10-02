@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fd20f29e0da8ab34b8180cdbef558051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3720232589588898228
+    second: Scene2-FG Low_v1.00.0717_0
+  - first:
+      213: 8019776105621792851
+    second: Scene2-FG Low_v1.00.0717_1
+  - first:
+      213: 1824297659609178838
+    second: Scene2-FG Low_v1.00.0717_2
+  - first:
+      213: 184682939470451215
+    second: Scene2-FG Low_v1.00.0717_3
+  - first:
+      213: -8564316636839557001
+    second: Scene2-FG Low_v1.00.0717_4
+  - first:
+      213: 1483156097994289103
+    second: Scene2-FG Low_v1.00.0717_5
+  - first:
+      213: 8827959770326121050
+    second: Scene2-FG Low_v1.00.0717_6
+  - first:
+      213: 7572270958658429078
+    second: Scene2-FG Low_v1.00.0717_7
+  - first:
+      213: 3136262405658817842
+    second: Scene2-FG Low_v1.00.0717_8
+  - first:
+      213: -7736257004820872374
+    second: Scene2-FG Low_v1.00.0717_9
+  - first:
+      213: 6747523199341877844
+    second: Scene2-FG Low_v1.00.0717_10
+  - first:
+      213: -4258317767162142001
+    second: Scene2-FG Low_v1.00.0717_11
+  - first:
+      213: 5872952756117473771
+    second: Scene2-FG Low_v1.00.0717_12
+  - first:
+      213: 2235481009579356975
+    second: Scene2-FG Low_v1.00.0717_13
+  - first:
+      213: -3017673979992427526
+    second: Scene2-FG Low_v1.00.0717_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_0
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 0
+        width: 8466
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed8bf9b241f5cc0800000000000000
+      internalID: -3720232589588898228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_1
+      rect:
+        serializedVersion: 2
+        x: 8895
+        y: 1327
+        width: 642
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a0c1a0e7fb4f60800000000000000
+      internalID: 8019776105621792851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_2
+      rect:
+        serializedVersion: 2
+        x: 9679
+        y: 0
+        width: 2306
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e49d4e05315910800000000000000
+      internalID: 1824297659609178838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_3
+      rect:
+        serializedVersion: 2
+        x: 11503
+        y: 0
+        width: 1042
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02163ba720209200800000000000000
+      internalID: 184682939470451215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_4
+      rect:
+        serializedVersion: 2
+        x: 12575
+        y: 495
+        width: 1394
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c53df46f652980800000000000000
+      internalID: -8564316636839557001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_5
+      rect:
+        serializedVersion: 2
+        x: 13967
+        y: 0
+        width: 1410
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf676fec9a359410800000000000000
+      internalID: 1483156097994289103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_6
+      rect:
+        serializedVersion: 2
+        x: 15199
+        y: 0
+        width: 4898
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3ab973a6338a70800000000000000
+      internalID: 8827959770326121050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 577
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690a7d9315c161960800000000000000
+      internalID: 7572270958658429078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 546
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235b4b39a0e368b20800000000000000
+      internalID: 3136262405658817842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_9
+      rect:
+        serializedVersion: 2
+        x: 12543
+        y: 383
+        width: 706
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4346881e3b43a490800000000000000
+      internalID: -7736257004820872374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 72
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ada72999404ad50800000000000000
+      internalID: 6747523199341877844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 584
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2e0936d8a67e4c0800000000000000
+      internalID: -4258317767162142001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9880b5a6be08150800000000000000
+      internalID: 5872952756117473771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23fb165226060f10800000000000000
+      internalID: 2235481009579356975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2-FG Low_v1.00.0717_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 73
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3bc96e0811f16d0800000000000000
+      internalID: -3017673979992427526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scene2-FG Low_v1.00.0717_0: -3720232589588898228
+      Scene2-FG Low_v1.00.0717_1: 8019776105621792851
+      Scene2-FG Low_v1.00.0717_10: 6747523199341877844
+      Scene2-FG Low_v1.00.0717_11: -4258317767162142001
+      Scene2-FG Low_v1.00.0717_12: 5872952756117473771
+      Scene2-FG Low_v1.00.0717_13: 2235481009579356975
+      Scene2-FG Low_v1.00.0717_14: -3017673979992427526
+      Scene2-FG Low_v1.00.0717_2: 1824297659609178838
+      Scene2-FG Low_v1.00.0717_3: 184682939470451215
+      Scene2-FG Low_v1.00.0717_4: -8564316636839557001
+      Scene2-FG Low_v1.00.0717_5: 1483156097994289103
+      Scene2-FG Low_v1.00.0717_6: 8827959770326121050
+      Scene2-FG Low_v1.00.0717_7: 7572270958658429078
+      Scene2-FG Low_v1.00.0717_8: 3136262405658817842
+      Scene2-FG Low_v1.00.0717_9: -7736257004820872374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

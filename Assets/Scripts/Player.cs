@@ -14,6 +14,9 @@ public class Player : MonoBehaviour
     [SerializeField] float BRAKE = 15f;     // freinage quand on inverse la direction
     [SerializeField] float JUMP_STRENGTH = 5f;
 
+    int touchedGroundCount = 0;
+
+
     float velocity;  // < 0 = gauche, > 0 = droite
     int lastDir;
     bool isGrounded;
@@ -48,6 +51,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
+            touchedGroundCount++;
             isGrounded = true;
         }
     }
@@ -56,7 +60,11 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = false;
+            touchedGroundCount--;
+            if (touchedGroundCount == 0)
+            {
+                isGrounded = false;
+            }
         }
     }
 
@@ -105,7 +113,12 @@ public class Player : MonoBehaviour
 
         if (controls.Sonic.Jump.WasReleasedThisFrame())
         {
-            rb.AddForce(new Vector2(0,-JUMP_STRENGTH * 2/3));
+            //rb.AddForce(new Vector2(0,-JUMP_STRENGTH * 2/3)); // ?????
+            if (rb.linearVelocityY>0)
+            {
+                rb.linearVelocityY *= 0.5f;
+            }
+            
         }
     }
 
@@ -156,22 +169,26 @@ public class Player : MonoBehaviour
 
     void SpeedAnimation()
     {
-        if (velocity == 0f)
-        {
-            anim.SetBool("isWalking",false);
-        }else if (velocity > SPRINTING_SPEED || velocity < -SPRINTING_SPEED)
-        {
-            anim.SetBool("isSprinting", true);
-        }else if (velocity > RUNNING_SPEED || velocity < -RUNNING_SPEED)
-        {
-            anim.SetBool("isSprinting", false);
-            anim.SetBool("isRunning", true);
-        }
-        else
-        {
-            anim.SetBool("isWalking",true);
-            anim.SetBool("isRunning", false);
-        }
+        anim.SetFloat("Horizontal Speed", Mathf.Abs(velocity));
+        anim.SetBool("Grounded", isGrounded);
+        //weird 
+
+        //if (velocity == 0f)
+        //{
+        //    anim.SetBool("isWalking",false);
+        //}else if (velocity > SPRINTING_SPEED || velocity < -SPRINTING_SPEED)
+        //{
+        //    anim.SetBool("isSprinting", true);
+        //}else if (velocity > RUNNING_SPEED || velocity < -RUNNING_SPEED)
+        //{
+        //    anim.SetBool("isSprinting", false);
+        //    anim.SetBool("isRunning", true);
+        //}
+        //else
+        //{
+        //    anim.SetBool("isWalking",true);
+        //    anim.SetBool("isRunning", false);
+        //}
 
         if (velocity < 0)
             sr.flipX = true;
