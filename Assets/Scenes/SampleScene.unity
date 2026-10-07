@@ -355,7 +355,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 179723214646361102, guid: 0ff1a570b47654671865a23d98bb1d0c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.283
+      value: 3.644
       objectReference: {fileID: 0}
     - target: {fileID: 179723214646361102, guid: 0ff1a570b47654671865a23d98bb1d0c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -392,6 +392,10 @@ PrefabInstance:
     - target: {fileID: 447580392178423654, guid: 0ff1a570b47654671865a23d98bb1d0c, type: 3}
       propertyPath: ACCEL1
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 447580392178423654, guid: 0ff1a570b47654671865a23d98bb1d0c, type: 3}
+      propertyPath: JUMP_STRENGTH
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 4511513580481500664, guid: 0ff1a570b47654671865a23d98bb1d0c, type: 3}
       propertyPath: m_SpriteSortPoint

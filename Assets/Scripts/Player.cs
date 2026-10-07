@@ -49,6 +49,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            anim.SetBool("isGrounded",true);
         }
     }
 
@@ -57,6 +58,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
+            anim.SetBool("isGrounded",false);
         }
     }
 
@@ -103,20 +105,17 @@ public class Player : MonoBehaviour
             anim.SetBool("isJumping", false);
         }
 
+        print(rb.linearVelocityY);
         if (controls.Sonic.Jump.WasReleasedThisFrame())
         {
-            rb.AddForce(new Vector2(0,-JUMP_STRENGTH * 2/3));
+            if(rb.linearVelocityY >=0)
+                rb.linearVelocityY -= rb.linearVelocityY/2;
         }
     }
 
     void ManageCrounch()
     {
-        if(anim.GetBool("isWalking") || anim.GetBool("isRunning") || anim.GetBool("isSprinting"))
-            isMoving = true;
-        else
-            isMoving = false;
-
-        if (controls.Sonic.Crounch.WasPressedThisFrame() && isGrounded && !isMoving)
+        if (controls.Sonic.Crounch.WasPressedThisFrame() && isGrounded)
         {
             anim.SetBool("isCrounching", true);
         }else if (controls.Sonic.Crounch.WasReleasedThisFrame())
@@ -127,55 +126,33 @@ public class Player : MonoBehaviour
 
     void UpdateVelocity(int dir)
     {
-        float dt = Time.deltaTime;
 
         //Friction
-        if (dir == 0)
+        if (dir == 0 || anim.GetBool("isCrounching"))
         {
-            velocity = Mathf.MoveTowards(velocity, 0f, FRICTION * dt);
+            velocity = Mathf.MoveTowards(velocity, 0f, FRICTION * Time.deltaTime);
         }
 
         //Animation basée sur la vitesse
-        SpeedAnimation();
+        anim.SetFloat("Horizontal Speed", Mathf.Abs(velocity));
+
+        if (velocity < 0)
+            sr.flipX = true;
+        else if (velocity > 0)
+            sr.flipX = false;
 
         //Animation de freinage
         if (velocity * dir < 0f)
         {
-            velocity += dir * BRAKE * dt;
+            velocity += dir * BRAKE * Time.deltaTime;;
             anim.SetBool("isBraking", true);
             sr.flipX = !sr.flipX;
         }
         else
         {
             float accel = Mathf.Abs(velocity) <= MAX_SPEED ? ACCEL1 : ACCEL2;
-            velocity += dir * accel * dt;
+            velocity += dir * accel * Time.deltaTime;;
             anim.SetBool("isBraking", false);
         }
-    }
-
-
-    void SpeedAnimation()
-    {
-        if (velocity == 0f)
-        {
-            anim.SetBool("isWalking",false);
-        }else if (velocity > SPRINTING_SPEED || velocity < -SPRINTING_SPEED)
-        {
-            anim.SetBool("isSprinting", true);
-        }else if (velocity > RUNNING_SPEED || velocity < -RUNNING_SPEED)
-        {
-            anim.SetBool("isSprinting", false);
-            anim.SetBool("isRunning", true);
-        }
-        else
-        {
-            anim.SetBool("isWalking",true);
-            anim.SetBool("isRunning", false);
-        }
-
-        if (velocity < 0)
-            sr.flipX = true;
-        else if (velocity > 0)
-            sr.flipX = false;
     }
 }
