@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - LeftBorder
+  - GameManager
   layers:
   - Default
   - TransparentFX
@@ -39,8 +41,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Back
+    uniqueID: 4068022287
+    locked: 0
+  - name: Midback
+    uniqueID: 4098690171
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2721788695
     locked: 0
   m_RenderingLayers:
   - Default
