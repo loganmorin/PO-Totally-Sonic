@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
 
     [Header("Vitesse et physique")]
     [SerializeField] float MAX_SPEED = 15f;
-    [SerializeField] float ACCEL1 = 5f;     // accélération jusqu'à MAX_SPEED
+    [SerializeField] float ACCEL = 5f;     // accélération jusqu'à MAX_SPEED
     [SerializeField] float FRICTION = 10f;   // ralentissement sans input
     [SerializeField] float BRAKE = 25f;      // freinage quand on inverse la direction
     [SerializeField] float JUMP_STRENGTH = 8.5f;
@@ -67,6 +67,7 @@ public class Player : MonoBehaviour
         controls.Sonic.Disable();
     }
 
+    /*
     void Update()
     {
         if (canInput)
@@ -87,6 +88,7 @@ public class Player : MonoBehaviour
         if (canInput)
             Move();
     }
+    */
 
     void ManageJump()
     {
@@ -204,7 +206,7 @@ public class Player : MonoBehaviour
         }
         else
         {
-            float accel = Mathf.Abs(velocity) <= MAX_SPEED ? ACCEL1 : 0;
+            float accel = Mathf.Abs(velocity) <= MAX_SPEED ? ACCEL : 0;
             velocity += dir * accel * Time.deltaTime;
             anim.SetBool("isBraking", false);
         }
@@ -274,7 +276,7 @@ public class Player : MonoBehaviour
         else
         {
             rb.gravityScale = defaultGravity;
-            rb.linearVelocityX += dir * ACCEL1 * Time.deltaTime;
+            rb.linearVelocityX += dir * ACCEL * Time.deltaTime;
         }
     }
 
